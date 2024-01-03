@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-cloud-developer-toolkit",
+  "displayName": "Alibaba Cloud Developer Toolkit",
+  "publisher": "alibabacloud-openapi",
+  "description": "",
+  "icon": "icons/aliyun_logo_128x128.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alibabacloud-openapi.aliyuncli",
+    "alibabacloud-openapi.vscode-alicloud-api"
+  ]
+}
