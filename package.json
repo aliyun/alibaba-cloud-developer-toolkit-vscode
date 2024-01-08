@@ -2,7 +2,7 @@
   "name": "alibaba-cloud-developer-toolkit",
   "displayName": "Alibaba Cloud Developer Toolkit",
   "publisher": "alibabacloud-openapi",
-  "description": "",
+  "description": "Alibaba Cloud Developer Toolkit is a collection of extensions that can help access Alibaba Cloud services in Visual Studio Code.",
   "icon": "icons/aliyun_logo_128x128.png",
   "version": "0.0.1",
   "engines": {
@@ -14,5 +14,21 @@
   "extensionPack": [
     "alibabacloud-openapi.aliyuncli",
     "alibabacloud-openapi.vscode-alicloud-api"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliyun/alibaba-cloud-developer-toolkit-vscode.git"
+  },
+  "keywords": [
+    "Alibaba",
+    "Cloud",
+    "Developer",
+    "Toolkit"
+  ],
+  "author": "Alibaba Cloud SDK Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliyun/alibaba-cloud-developer-toolkit-vscode/issues"
+  },
+  "homepage": "https://github.com/aliyun/alibaba-cloud-developer-toolkit-vscode#readme"
 }
