@@ -15,7 +15,7 @@ By intalling Alibaba Cloud Developer Toolkit, the following extensions are insta
 
 ## Questions & Issues
 
-Each extension mentioned above is a separate open-source project and has its own repository. To make things easier, simply [🙋 open an issue in this repository](https://github.com/aliyun/alibaba-cloud-developer-toolkit/issues). The new issue will be triaged and redirected.
+Each extension mentioned above is a separate open-source project and has its own repository. To make things easier, simply [🙋 open an issue in this repository](https://github.com/aliyun/alibaba-cloud-developer-toolkit-vscode/issues). The new issue will be triaged and redirected.
 
 ## License
 
